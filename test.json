@@ -1,0 +1,32 @@
+{
+ "L1": {
+   "SPY": [
+     "c1@spy.com",
+     "c2@spy.com"
+   ],
+   "CHL": [
+     "c1@chl.com",
+     "c2@chl.com"
+   ]
+ },
+ "L2": {
+   "OMG": [
+     "c1@omg.com",
+     "c2@omg.com"
+   ]
+ },
+ "L3": {
+   "BP": [
+     "c1@bp.com",
+     "c2@bp.com"
+   ],
+   "DEL": [
+     "c1@del.com",
+     "c2@del.com"
+   ],
+   "DPM": [
+     "c1@dpm.com",
+     "c2@dpm.com"
+   ]
+ }
+}
